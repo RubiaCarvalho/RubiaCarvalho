@@ -20,6 +20,7 @@ Atualmente moro em Cuiabá/MT-BR.<br />
 <p align="left" >
   
 **Meus interesses pessoais:**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/lWZ77CqQbInm0/giphy.gif" />
 
 - 👩‍💻 Por gostar da área e querer sempre se atualizar, atualmente estou fazendo um curso de Banco de Dados;
 - 🦾 Sempre tentando motivar as garotas para entrar mais nesse mundo
